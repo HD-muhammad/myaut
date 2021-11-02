@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SecondTest::testCountWords":3,"EncTest::test_sha256":3,"EncTest::test_day":3,"MainFunctionTest::test_tomorrow":3},"times":{"SimpleTest::testCountWords":0,"SecondTest::testCountWords":0,"EncTest::test_sha256":0.005,"EncTest::test_day":0.002,"EncTest::test_tomorrow":0,"MainFunctionTest::test_sha256":0.006,"MainFunctionTest::test_tomorrow":0.003}}
